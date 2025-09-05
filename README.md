@@ -11,12 +11,13 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas  
-- **Linguagens:** Java, Python, JavaScript  
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Linguagens e Frameworks:** Java, Spring Boot, Python, JavaScript, C++  
+- **Bancos de Dados:** MySQL, MariaDB, PostgreSQL, MongoDB, SQLite  
 - **Testes & APIs:** Postman, Insomnia, Mocha, Chai, Playwright  
 - **Versionamento:** Git, GitHub, GitLab  
+- **Cloud:** AWS, Oracle Cloud Infrastructure (OCI)  
 - **Metodologias & Gestão:** Scrum, Trello, Jira, Confluence, Miro  
-- **Design & Prototipagem:** Figma, Canva  
+- **Design & Prototipagem:** Figma, Canva 
 
 ---
 
