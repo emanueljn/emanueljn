@@ -1,6 +1,34 @@
-# Olá! Eu sou o Emanuel de Jesus Nardes
-###  Atualmente estou trabalhando na OAB.
-###  Estou cursando Engenharia da Computação pela UNIVESP.
+<div>
+  
+  # 👋 Olá! Eu sou o Emanuel de Jesus Nardes  
+
+🎓 Estudante de **Engenharia da Computação** pela UNIVESP (desde 2022).  
+
+💻 Apaixonado por **desenvolvimento backend**, com foco em **Java** e tecnologias associadas.  
+
+🚀 Busco uma oportunidade na área de **Software Engineering / Backend** para aplicar conhecimentos, aprender continuamente e contribuir com soluções eficientes.  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Java, Python, JavaScript  
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Testes & APIs:** Postman, Insomnia, Mocha, Chai, Playwright  
+- **Versionamento:** Git, GitHub, GitLab  
+- **Metodologias & Gestão:** Scrum, Trello, Jira, Confluence, Miro  
+- **Design & Prototipagem:** Figma, Canva  
+
+---
+
+### 📌 O que você vai encontrar aqui?  
+- Projetos acadêmicos e pessoais focados em backend  
+- APIs REST, testes automatizados e boas práticas de versionamento  
+- Aprendizado contínuo em **Java, Spring Boot, JPA/Hibernate e Docker**  
+
+---
+
+👉 [LinkedIn](www.linkedin.com/in/emanueljn) 
+</div>
 
 <div>
   <a href="https://github.com/emanueljn">
