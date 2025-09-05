@@ -27,8 +27,6 @@
 - Aprendizado contínuo em **Java, Spring Boot, JPA/Hibernate e Docker**  
 
 ---
-
-👉 [LinkedIn](www.linkedin.com/in/emanueljn) 
 </div>
 
 <div>
